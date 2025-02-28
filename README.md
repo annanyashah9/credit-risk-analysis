@@ -1,8 +1,7 @@
 # credit-risk-analysis
 
 Contributors:
-Ananya Shah
-Ada Wong
+Ananya Shah, Ada Wong
 
 This project implements a machine learning pipeline to analyze and classify credit risk data according to factors such as credit history, status of checking accounts, credit amount, among many others. By leveraging machine learning and data manipulation techniques, we hoped to enhance predictive accuracy and automate risk assessment to simplify the process of financial decision making, and help lenders determine the probability of default by borrowers. 
 
